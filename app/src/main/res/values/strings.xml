@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add">Addition Button</string>
+    <string name="div">Division Button</string>
+    <string name="multi">Multiplication Button</string>
+    <string name="sub">Substraction button</string>
+    <string name="results">Results</string>
+</resources>
